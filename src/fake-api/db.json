@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "fullName": "syt",
+      "username": "ot",
+      "email": "syt@mail.com",
+      "password": "12345",
+      "role": "user",
+      "id": 1
+    }
+  ],
+  "transactions": [],
+  "products": [
+    {
+      "id": 1,
+      "productName": "NIKE DUNK HIGH UP",
+      "price": 5000000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzI5MzEwLzQ4YWM2ZTg2ZDQ3YzczZDkxZDdhZDkxMzViOGUwN2EwLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 40",
+      "category": "NIKE DUNK"
+    },
+    {
+      "id": 2,
+      "productName": "NIKE DUNK HIGH LX",
+      "price": 4500000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzI4NDA2L2IyYWUxZjEyZmU1MjY2ZWFkOWZjOWExY2RhOGI1Y2FlLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 39",
+      "category": "NIKE DUNK"
+    },
+    {
+      "id": 3,
+      "productName": "NIKE DUNK LOW BLACK WHITE",
+      "price": 6000000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzE3MjY2L2Q1MjBhMGQ3ZTM0NzA4YzZlNjVkZmYwYjMxNjA5ZGFjLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 39",
+      "category": "NIKE DUNK"
+    },
+    {
+      "id": 4,
+      "productName": "NIKE DUNK LOW TRAVIS SCOTT",
+      "price": 30000000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzY4NTYvODA4Y2M4ZGYtYjlkMC00OWVmLTk0ZmMtMDkyNGI2MzM2NzRmLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 38",
+      "category": "NIKE DUNK"
+    },
+    {
+      "id": 5,
+      "productName": "NIKE DUNK HIGH MIDNIGHT NAVY",
+      "price": 2300000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzIwODk5Lzc2ZmNkMTg2MzlmMWRiM2JiMmZiYTI2Njc2YjA2Nzg4LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 40",
+      "category": "NIKE DUNK"
+    },
+    {
+      "id": 6,
+      "productName": "AIR JORDAN 1 MID SE USA",
+      "price": 2200000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzk3MzcvOTE0MTk5ZWM3NmE2M2JkOWYzYzU4ODA2YWM5ZmM5ZjgucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDB9LCJ3ZWJwIjp7InF1YWxpdHkiOjUwfX19",
+      "condition": "BNIB",
+      "size": "EU 40",
+      "category": "AIR JORDAN"
+    },
+    {
+      "id": 7,
+      "productName": "AIR JORDAN 1 RETRO OG - SHADOW",
+      "price": 4500000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzIyMTM4L2IzODg4MmZmYjNjZTQ1NzYwODI1MzM2M2MwNGMxMDk1LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 38",
+      "category": "AIR JORDAN"
+    },
+    {
+      "id": 8,
+      "productName": "AIR JORDAN 1 RETRO OG - POLLEN",
+      "price": 6000000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzI0NzI5LzZiOGUzYWIyYzAwYmU0Y2Y1NDEwZmU3MDlhNTE1MzBjLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 39",
+      "category": "AIR JORDAN"
+    },
+    {
+      "id": 9,
+      "productName": "AIR JORDAN 1 RETRO OG - SHATTERED BACKBOARD",
+      "price": 5000000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzI1MS9jMDY3MDIyMS0yN2RmLTRlYWItODYyNS0xN2U1ZDdiNGFiY2EuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 38",
+      "category": "AIR JORDAN"
+    },
+    {
+      "id": 10,
+      "productName": "AIR JORDAN 1 HIGH DARK MOCHA",
+      "price": 2300000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzExOTgzLzY1NDljNzQzODM0ZjUxNWY1ZWFmNzJjMTY2ZDU2NTQ3LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 40",
+      "category": "AIR JORDAN"
+    },
+    {
+      "id": 11,
+      "productName": "NIKE AIR FORCE 1 TRIPEL WHITE",
+      "price": 3000000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzE2ODQzLzQ0ZmNlN2RhNmJjZjAxYTE1N2M3N2EwYTBjMzJkNjliLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 40",
+      "category": "AIR FORCE 1"
+    },
+    {
+      "id": 12,
+      "productName": "NIKE AIR FORCE 1 LOW WHEAT",
+      "price": 2000000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzU1MDAvNDk2MDU2YjMtMjA1ZC00MWE2LWE0OWYtYjNmMjQ1OTE4MzM3LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sIndlYnAiOnsicXVhbGl0eSI6NTB9fX0=",
+      "condition": "BNIB",
+      "size": "EU 37",
+      "category": "AIR FORCE 1"
+    },
+    {
+      "id": 13,
+      "productName": "NIKE AIR FORCE 1 TRIPLE BLACK",
+      "price": 4000000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzIxOTY5L2NkMWNmMDYxYzkwZmJiNDljZTliOTE1ZjhiN2ViY2JlLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 39",
+      "category": "AIR FORCE 1"
+    },
+    {
+      "id": 14,
+      "productName": "NIKE AIR FORCE 1 LOW GORE-TEX OLIVE BLACK",
+      "price": 1700000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzI4NjM4L2Y2NTZjMjliOGYxYTc2OTIxZThhYzJkYWU3NzJjMzU3LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 38",
+      "category": "AIR FORCE 1"
+    },
+    {
+      "id": 15,
+      "productName": "NIKE AIR FORCE 1 G-DRAGON",
+      "price": 7000000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzE1MDMxL2ZiZDdkOTMyZWY2MDA5NmVlZDhhMzRkMzZjNDMxYTBiLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sIndlYnAiOnsicXVhbGl0eSI6NTB9fX0=",
+      "condition": "BNIB",
+      "size": "EU 40",
+      "category": "AIR FORCE 1"
+    },
+    {
+      "id": 16,
+      "productName": "GAZELLE LOW CREAM",
+      "price": 400000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzI3MDgwLzc1MDk1ZWE2NmY5NDY1YzQ2ODY2MzhjNjNhYzNhOGE0LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 40",
+      "category": "COMPASS"
+    },
+    {
+      "id": 17,
+      "productName": "VINTAGE LOW GREEN",
+      "price": 800000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzE1NzM3LzE2OWY2MGVjNGU2Yjg4OTkwOTRhMDVhN2UzNzJkMWRmLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 39",
+      "category": "COMPASS"
+    },
+    {
+      "id": 18,
+      "productName": "RETROGRADEE BBQ MONTAIN THE BURGER",
+      "price": 1400000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzIxNzM1L2VhNjliN2ZkN2ZiODdlYWY1NzJhNmZiZGIyOWRiYjg2LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 39",
+      "category": "COMPASS"
+    },
+    {
+      "id": 19,
+      "productName": "COMPASS X FxxKING RABBITS",
+      "price": 2000000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzE4NzcxLzBmYjAzOTQzZjEzZTVlN2Q4YTZmNmIzZjhlMTRjMDQ3LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwfSwid2VicCI6eyJxdWFsaXR5Ijo1MH19fQ==",
+      "condition": "BNIB",
+      "size": "EU 38",
+      "category": "COMPASS"
+    },
+    {
+      "id": 20,
+      "productName": "COMPASS PROTO RND",
+      "price": 600000,
+      "productImage": "https://d5ibtax54de3q.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzYxNDYvYmJhM2M5YTRmNTNkYzY4NWUyMGNkNDExYzE4NTMxMWEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo0MDB9LCJ3ZWJwIjp7InF1YWxpdHkiOjUwfX19",
+      "condition": "BNIB",
+      "size": "EU 40",
+      "category": "COMPASS"
+    }
+  ],
+  "carts": []
+}
